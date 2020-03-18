@@ -91,10 +91,7 @@ if __name__ == '__main__':
 
     links = [x.get_attribute('href') for x in agent.find_elements_by_xpath('//*[@id="journals"]/div/div/div/a')]
 
-    data = []
-    for link in links:
-        journal_data = get_journal_data(link, agent)
-        data.append(journal_data)
+    data = [get_journal_data(link, agent) for link in links]
 
     save_file(data)
 
