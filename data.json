@@ -1,0 +1,2009 @@
+[
+    {
+        "Journal description": {
+            "Title": "Open Journal of Big Data (OJBD)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJBD Editorial Office ",
+            "ISSN:": "2365-029X",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "An Introductory Approach to Risk Visualization as a Service",
+                "Authors": [
+                    {
+                        "Name": "Victor Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Victor+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC-v1i1n01_Chang.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            },
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            },
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "A Comparative Evaluation of Current HTML5 Web Video Implementations",
+                "Authors": [
+                    {
+                        "Name": "Martin Hoernig",
+                        "Link": "https://www.ronpub.com/publications/author/Martin+Hoernig"
+                    },
+                    {
+                        "Name": "Andreas Bigontina",
+                        "Link": "https://www.ronpub.com/publications/author/Andreas+Bigontina"
+                    },
+                    {
+                        "Name": "Bernd Radig",
+                        "Link": "https://www.ronpub.com/publications/author/Bernd+Radig"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT-v1i2n01_Hoernig.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "MapReduce-based Solutions for Scalable SPARQL Querying",
+                "Authors": [
+                    {
+                        "Name": "Jos\u00e9 M. Gim\u00e9nez-Garcia",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+M.+Gim%E9nez-Garcia"
+                    },
+                    {
+                        "Name": "Javier D. Fern\u00e1ndez",
+                        "Link": "https://www.ronpub.com/publications/author/Javier+D.+Fern%E1ndez"
+                    },
+                    {
+                        "Name": "Miguel A. Mart\u00ednez-Prieto",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+A.+Mart%EDnez-Prieto"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW-v1i1n02_Garcia.pdf"
+            },
+            {
+                "Title": "A Self-Optimizing Cloud Computing System for Distributed Storage and Processing of Semantic Web Data",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Johannes Blume",
+                        "Link": "https://www.ronpub.com/publications/author/Johannes+Blume"
+                    },
+                    {
+                        "Name": "Dennis Heinrich",
+                        "Link": "https://www.ronpub.com/publications/author/Dennis+Heinrich"
+                    },
+                    {
+                        "Name": "Stefan Werner",
+                        "Link": "https://www.ronpub.com/publications/author/Stefan+Werner"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC-v1i2n01_Groppe.pdf"
+            },
+            {
+                "Title": "Which NoSQL Database? A Performance Overview",
+                "Authors": [
+                    {
+                        "Name": "Veronika Abramova",
+                        "Link": "https://www.ronpub.com/publications/author/Veronika+Abramova"
+                    },
+                    {
+                        "Name": "Jorge Bernardino",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Bernardino"
+                    },
+                    {
+                        "Name": "Pedro Furtado",
+                        "Link": "https://www.ronpub.com/publications/author/Pedro+Furtado"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJDB-v1i2n02_Abramova.pdf"
+            }
+        ]
+    },
+    {
+        "Journal description": {
+            "Title": "Open Journal of Cloud Computing (OJCC)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJCC Editorial Office ",
+            "ISSN:": "2199-1987",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Modelling the Integrated QoS for Wireless Sensor Networks with Heterogeneous Data Traffic",
+                "Authors": [
+                    {
+                        "Name": "Syarifah Ezdiani",
+                        "Link": "https://www.ronpub.com/publications/author/Syarifah+Ezdiani"
+                    },
+                    {
+                        "Name": "Adnan Al-Anbuky",
+                        "Link": "https://www.ronpub.com/publications/author/Adnan+Al-Anbuky"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2015v1i1n02_Syarifah.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            },
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "An Analytical Model of Multi-Core Multi-Cluster Architecture (MCMCA)",
+                "Authors": [
+                    {
+                        "Name": "Norhazlina Hamid",
+                        "Link": "https://www.ronpub.com/publications/author/Norhazlina+Hamid"
+                    },
+                    {
+                        "Name": "Robert John Walters",
+                        "Link": "https://www.ronpub.com/publications/author/Robert+John+Walters"
+                    },
+                    {
+                        "Name": "Gary B. Wills",
+                        "Link": "https://www.ronpub.com/publications/author/Gary+B.+Wills"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2015v2i1n02_Hamid.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "An Introductory Approach to Risk Visualization as a Service",
+                "Authors": [
+                    {
+                        "Name": "Victor Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Victor+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC-v1i1n01_Chang.pdf"
+            },
+            {
+                "Title": "Block-level De-duplication with Encrypted Data",
+                "Authors": [
+                    {
+                        "Name": "Pasquale Puzio",
+                        "Link": "https://www.ronpub.com/publications/author/Pasquale+Puzio"
+                    },
+                    {
+                        "Name": "Refik Molva",
+                        "Link": "https://www.ronpub.com/publications/author/Refik+Molva"
+                    },
+                    {
+                        "Name": "Melek \u00d6nen",
+                        "Link": "https://www.ronpub.com/publications/author/Melek+%D6nen"
+                    },
+                    {
+                        "Name": "Sergio Loureiro",
+                        "Link": "https://www.ronpub.com/publications/author/Sergio+Loureiro"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC-v1i1n02_Puzio.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "Criteria of Successful IT Projects from Management's Perspective",
+                "Authors": [
+                    {
+                        "Name": "Mark Harwardt",
+                        "Link": "https://www.ronpub.com/publications/author/Mark+Harwardt"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2016v3i1n02_Harwardt.pdf"
+            }
+        ]
+    },
+    {
+        "Journal description": {
+            "Title": "Open Journal of Databases (OJDB)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJDB Editorial Office ",
+            "ISSN:": "2199-3459",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "High-Dimensional Spatio-Temporal Indexing",
+                "Authors": [
+                    {
+                        "Name": "Mathias Menninghaus",
+                        "Link": "https://www.ronpub.com/publications/author/Mathias+Menninghaus"
+                    },
+                    {
+                        "Name": "Martin Breunig",
+                        "Link": "https://www.ronpub.com/publications/author/Martin+Breunig"
+                    },
+                    {
+                        "Name": "Elke Pulverm\u00fcller",
+                        "Link": "https://www.ronpub.com/publications/author/Elke+Pulverm%FCller"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJDB_2016v3i1n01_Menninghaus.pdf"
+            },
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            },
+            {
+                "Title": "An Efficient Approach for Cost Optimization of the Movement of Big Data",
+                "Authors": [
+                    {
+                        "Name": "Prasad Teli",
+                        "Link": "https://www.ronpub.com/publications/author/Prasad+Teli"
+                    },
+                    {
+                        "Name": "Manoj V. Thomas",
+                        "Link": "https://www.ronpub.com/publications/author/Manoj+V.+Thomas"
+                    },
+                    {
+                        "Name": "K. Chandrasekaran",
+                        "Link": "https://www.ronpub.com/publications/author/K.+Chandrasekaran"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJBD_2015v1i1n02_Teli.pdf"
+            },
+            {
+                "Title": "A Comparative Evaluation of Current HTML5 Web Video Implementations",
+                "Authors": [
+                    {
+                        "Name": "Martin Hoernig",
+                        "Link": "https://www.ronpub.com/publications/author/Martin+Hoernig"
+                    },
+                    {
+                        "Name": "Andreas Bigontina",
+                        "Link": "https://www.ronpub.com/publications/author/Andreas+Bigontina"
+                    },
+                    {
+                        "Name": "Bernd Radig",
+                        "Link": "https://www.ronpub.com/publications/author/Bernd+Radig"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT-v1i2n01_Hoernig.pdf"
+            },
+            {
+                "Title": "MapReduce-based Solutions for Scalable SPARQL Querying",
+                "Authors": [
+                    {
+                        "Name": "Jos\u00e9 M. Gim\u00e9nez-Garcia",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+M.+Gim%E9nez-Garcia"
+                    },
+                    {
+                        "Name": "Javier D. Fern\u00e1ndez",
+                        "Link": "https://www.ronpub.com/publications/author/Javier+D.+Fern%E1ndez"
+                    },
+                    {
+                        "Name": "Miguel A. Mart\u00ednez-Prieto",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+A.+Mart%EDnez-Prieto"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW-v1i1n02_Garcia.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "Cognitive Spam Recognition Using Hadoop and Multicast-Update",
+                "Authors": [
+                    {
+                        "Name": "Mukund YR",
+                        "Link": "https://www.ronpub.com/publications/author/Mukund+YR"
+                    },
+                    {
+                        "Name": "Sunil Sandeep Nayak",
+                        "Link": "https://www.ronpub.com/publications/author/Sunil+Sandeep+Nayak"
+                    },
+                    {
+                        "Name": "K. Chandrasekaran",
+                        "Link": "https://www.ronpub.com/publications/author/K.+Chandrasekaran"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJBD_2015v1i1n03_YR.pdf"
+            }
+        ]
+    },
+    {
+        "Journal description": {
+            "Title": "Open Journal of Information Systems (OJIS)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJIS Editorial Office ",
+            "ISSN:": "2198-9281",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Accurate Distance Estimation between Things: A Self-correcting Approach",
+                "Authors": [
+                    {
+                        "Name": "Ho-sik Cho",
+                        "Link": "https://www.ronpub.com/publications/author/Ho-sik+Cho"
+                    },
+                    {
+                        "Name": "Jianxun Ji",
+                        "Link": "https://www.ronpub.com/publications/author/Jianxun+Ji"
+                    },
+                    {
+                        "Name": "Zili Chen",
+                        "Link": "https://www.ronpub.com/publications/author/Zili+Chen"
+                    },
+                    {
+                        "Name": "Hyuncheol Park",
+                        "Link": "https://www.ronpub.com/publications/author/Hyuncheol+Park"
+                    },
+                    {
+                        "Name": "Wonsuk Lee",
+                        "Link": "https://www.ronpub.com/publications/author/Wonsuk+Lee"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2015v1i2n03_Cho.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            },
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "IT Governance Practices for Electric Utilities: Insights from Brazil and Europe",
+                "Authors": [
+                    {
+                        "Name": "Paulo Rupino da Cunha",
+                        "Link": "https://www.ronpub.com/publications/author/Paulo+Rupino+da+Cunha"
+                    },
+                    {
+                        "Name": "Luiz Mauricio Martins",
+                        "Link": "https://www.ronpub.com/publications/author/Luiz+Mauricio+Martins"
+                    },
+                    {
+                        "Name": "Ant\u00e3o Moura",
+                        "Link": "https://www.ronpub.com/publications/author/Ant%E3o+Moura"
+                    },
+                    {
+                        "Name": "Ant\u00f3nio Dias de Figueiredo",
+                        "Link": "https://www.ronpub.com/publications/author/Ant%F3nio+Dias+de+Figueiredo"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2015v2i1n02_Cunha.pdf"
+            },
+            {
+                "Title": "Using Nuisance Telephone Denial of Service to Combat Online Sex Trafficking",
+                "Authors": [
+                    {
+                        "Name": "Ross A. Malaga",
+                        "Link": "https://www.ronpub.com/publications/author/Ross+A.+Malaga"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2015v2i1n01_Malaga.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "Developing Knowledge Models of Social Media: A Case Study on LinkedIn",
+                "Authors": [
+                    {
+                        "Name": "Jinwu Li",
+                        "Link": "https://www.ronpub.com/publications/author/Jinwu+Li"
+                    },
+                    {
+                        "Name": "Vincent Wade",
+                        "Link": "https://www.ronpub.com/publications/author/Vincent+Wade"
+                    },
+                    {
+                        "Name": "Melike Sah",
+                        "Link": "https://www.ronpub.com/publications/author/Melike+Sah"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW-v1i2n01_Li.pdf"
+            },
+            {
+                "Title": "An Analytical Model of Multi-Core Multi-Cluster Architecture (MCMCA)",
+                "Authors": [
+                    {
+                        "Name": "Norhazlina Hamid",
+                        "Link": "https://www.ronpub.com/publications/author/Norhazlina+Hamid"
+                    },
+                    {
+                        "Name": "Robert John Walters",
+                        "Link": "https://www.ronpub.com/publications/author/Robert+John+Walters"
+                    },
+                    {
+                        "Name": "Gary B. Wills",
+                        "Link": "https://www.ronpub.com/publications/author/Gary+B.+Wills"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2015v2i1n02_Hamid.pdf"
+            }
+        ]
+    },
+    {
+        "Journal description": {
+            "Title": "Open Journal of Internet of Things (OJIOT)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJIOT Editorial Office ",
+            "ISSN:": "2364-7108",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Causal Consistent Databases",
+                "Authors": [
+                    {
+                        "Name": "Mawahib Musa Elbushra",
+                        "Link": "https://www.ronpub.com/publications/author/Mawahib+Musa+Elbushra"
+                    },
+                    {
+                        "Name": "Jan Lindstr\u00f6m",
+                        "Link": "https://www.ronpub.com/publications/author/Jan+Lindstr%F6m"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJDB_2015v2i1n02_Elbushra.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "Cyber Supply Chain Risks in Cloud Computing - Bridging the Risk Assessment Gap",
+                "Authors": [
+                    {
+                        "Name": "Olusola Akinrolabu",
+                        "Link": "https://www.ronpub.com/publications/author/Olusola+Akinrolabu"
+                    },
+                    {
+                        "Name": "Steve New",
+                        "Link": "https://www.ronpub.com/publications/author/Steve+New"
+                    },
+                    {
+                        "Name": "Andrew Martin",
+                        "Link": "https://www.ronpub.com/publications/author/Andrew+Martin"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2018v5i1n01_Akinrolabu.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "Doing More with the Dew: A New Approach to Cloud-Dew Architecture",
+                "Authors": [
+                    {
+                        "Name": "David Edward Fisher",
+                        "Link": "https://www.ronpub.com/publications/author/David+Edward+Fisher"
+                    },
+                    {
+                        "Name": "Shuhui Yang",
+                        "Link": "https://www.ronpub.com/publications/author/Shuhui+Yang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2016v3i1n02_Fisher.pdf"
+            },
+            {
+                "Title": "Developing Knowledge Models of Social Media: A Case Study on LinkedIn",
+                "Authors": [
+                    {
+                        "Name": "Jinwu Li",
+                        "Link": "https://www.ronpub.com/publications/author/Jinwu+Li"
+                    },
+                    {
+                        "Name": "Vincent Wade",
+                        "Link": "https://www.ronpub.com/publications/author/Vincent+Wade"
+                    },
+                    {
+                        "Name": "Melike Sah",
+                        "Link": "https://www.ronpub.com/publications/author/Melike+Sah"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW-v1i2n01_Li.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            },
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Data Transfers in Hadoop: A Comparative Study",
+                "Authors": [
+                    {
+                        "Name": "Ujjal Marjit",
+                        "Link": "https://www.ronpub.com/publications/author/Ujjal+Marjit"
+                    },
+                    {
+                        "Name": "Kumar Sharma",
+                        "Link": "https://www.ronpub.com/publications/author/Kumar+Sharma"
+                    },
+                    {
+                        "Name": "Puspendu Mandal",
+                        "Link": "https://www.ronpub.com/publications/author/Puspendu+Mandal"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJBD_2015v1i2n04_UjjalMarjit.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            }
+        ]
+    },
+    {
+        "Journal description": {
+            "Title": "Open Journal of Semantic Web (OJSW)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJSW Editorial Office ",
+            "ISSN:": "2199-336X",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "P-LUPOSDATE: Using Precomputed Bloom Filters to Speed Up SPARQL Processing in the Cloud",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Thomas Kiencke",
+                        "Link": "https://www.ronpub.com/publications/author/Thomas+Kiencke"
+                    },
+                    {
+                        "Name": "Stefan Werner",
+                        "Link": "https://www.ronpub.com/publications/author/Stefan+Werner"
+                    },
+                    {
+                        "Name": "Dennis Heinrich",
+                        "Link": "https://www.ronpub.com/publications/author/Dennis+Heinrich"
+                    },
+                    {
+                        "Name": "Marc Stelzner",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+Stelzner"
+                    },
+                    {
+                        "Name": "Le Gruenwald",
+                        "Link": "https://www.ronpub.com/publications/author/Le+Gruenwald"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW-v1i2n02_Groppe.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "Which NoSQL Database? A Performance Overview",
+                "Authors": [
+                    {
+                        "Name": "Veronika Abramova",
+                        "Link": "https://www.ronpub.com/publications/author/Veronika+Abramova"
+                    },
+                    {
+                        "Name": "Jorge Bernardino",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Bernardino"
+                    },
+                    {
+                        "Name": "Pedro Furtado",
+                        "Link": "https://www.ronpub.com/publications/author/Pedro+Furtado"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJDB-v1i2n02_Abramova.pdf"
+            },
+            {
+                "Title": "A Comparative Evaluation of Current HTML5 Web Video Implementations",
+                "Authors": [
+                    {
+                        "Name": "Martin Hoernig",
+                        "Link": "https://www.ronpub.com/publications/author/Martin+Hoernig"
+                    },
+                    {
+                        "Name": "Andreas Bigontina",
+                        "Link": "https://www.ronpub.com/publications/author/Andreas+Bigontina"
+                    },
+                    {
+                        "Name": "Bernd Radig",
+                        "Link": "https://www.ronpub.com/publications/author/Bernd+Radig"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT-v1i2n01_Hoernig.pdf"
+            },
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "Detecting Data-Flow Errors in BPMN 2.0",
+                "Authors": [
+                    {
+                        "Name": "Silvia von Stackelberg",
+                        "Link": "https://www.ronpub.com/publications/author/Silvia+von+Stackelberg"
+                    },
+                    {
+                        "Name": "Susanne Putze",
+                        "Link": "https://www.ronpub.com/publications/author/Susanne+Putze"
+                    },
+                    {
+                        "Name": "Jutta M\u00fclle",
+                        "Link": "https://www.ronpub.com/publications/author/Jutta+M%FClle"
+                    },
+                    {
+                        "Name": "Klemens B\u00f6hm",
+                        "Link": "https://www.ronpub.com/publications/author/Klemens+B%F6hm"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS-2014v1i2n01_Stackelberg.pdf"
+            },
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "An Introductory Approach to Risk Visualization as a Service",
+                "Authors": [
+                    {
+                        "Name": "Victor Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Victor+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC-v1i1n01_Chang.pdf"
+            }
+        ]
+    },
+    {
+        "Journal description": {
+            "Title": "Open Journal of Web Technologies (OJWT)",
+            "Publisher:": "RonPub UG (haftungsbeschr\u00e4nkt), L\u00fcbeck, Germany",
+            "Contact:": "OJWT Editorial Office ",
+            "ISSN:": "2199-188X",
+            "Call for Papers:": " "
+        },
+        "Articles": [
+            {
+                "Title": "Distributed Join Approaches for W3C-Conform SPARQL Endpoints",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Dennis Heinrich",
+                        "Link": "https://www.ronpub.com/publications/author/Dennis+Heinrich"
+                    },
+                    {
+                        "Name": "Stefan Werner",
+                        "Link": "https://www.ronpub.com/publications/author/Stefan+Werner"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2015v2i1n04_Groppe.pdf"
+            },
+            {
+                "Title": "PatTrieSort - External String Sorting based on Patricia Tries",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Dennis Heinrich",
+                        "Link": "https://www.ronpub.com/publications/author/Dennis+Heinrich"
+                    },
+                    {
+                        "Name": "Stefan Werner",
+                        "Link": "https://www.ronpub.com/publications/author/Stefan+Werner"
+                    },
+                    {
+                        "Name": "Christopher Blochwitz",
+                        "Link": "https://www.ronpub.com/publications/author/Christopher+Blochwitz"
+                    },
+                    {
+                        "Name": "Thilo Pionteck",
+                        "Link": "https://www.ronpub.com/publications/author/Thilo+Pionteck"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJDB_2015v2i1n03_Groppe.pdf"
+            },
+            {
+                "Title": "Multi-Game Code-Duel for Learning Programming Languages",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Ian P\u00f6sse",
+                        "Link": "https://www.ronpub.com/publications/author/Ian+P%F6sse"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIS_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "An Efficient Approach for Cost Optimization of the Movement of Big Data",
+                "Authors": [
+                    {
+                        "Name": "Prasad Teli",
+                        "Link": "https://www.ronpub.com/publications/author/Prasad+Teli"
+                    },
+                    {
+                        "Name": "Manoj V. Thomas",
+                        "Link": "https://www.ronpub.com/publications/author/Manoj+V.+Thomas"
+                    },
+                    {
+                        "Name": "K. Chandrasekaran",
+                        "Link": "https://www.ronpub.com/publications/author/K.+Chandrasekaran"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJBD_2015v1i1n02_Teli.pdf"
+            },
+            {
+                "Title": "Experimentation and Analysis of Ensemble Deep Learning in IoT Applications",
+                "Authors": [
+                    {
+                        "Name": "Taylor Mauldin",
+                        "Link": "https://www.ronpub.com/publications/author/Taylor+Mauldin"
+                    },
+                    {
+                        "Name": "Anne H. Ngu",
+                        "Link": "https://www.ronpub.com/publications/author/Anne+H.+Ngu"
+                    },
+                    {
+                        "Name": "Vangelis Metsis",
+                        "Link": "https://www.ronpub.com/publications/author/Vangelis+Metsis"
+                    },
+                    {
+                        "Name": "Marc E. Canby",
+                        "Link": "https://www.ronpub.com/publications/author/Marc+E.+Canby"
+                    },
+                    {
+                        "Name": "Jelena Tesic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Tesic"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n11_Mauldin.pdf"
+            },
+            {
+                "Title": "Editorial of the 2019 Workshop on Very Large Internet of Things (VLIoT)",
+                "Authors": [
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n01e_VLIoT2019.pdf"
+            },
+            {
+                "Title": "Big Data in the Cloud: A Survey",
+                "Authors": [
+                    {
+                        "Name": "Pedro Caldeira Neves",
+                        "Link": "https://www.ronpub.com/publications/author/Pedro+Caldeira+Neves"
+                    },
+                    {
+                        "Name": "Jorge Bernardino",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Bernardino"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJBD_2015v1i2n02_Neves.pdf"
+            },
+            {
+                "Title": "Distributed Data-Gathering and -Processing in Smart Cities: An Information-Centric Approach",
+                "Authors": [
+                    {
+                        "Name": "Reza Tourani",
+                        "Link": "https://www.ronpub.com/publications/author/Reza+Tourani"
+                    },
+                    {
+                        "Name": "Abderrahmen Mtibaa",
+                        "Link": "https://www.ronpub.com/publications/author/Abderrahmen+Mtibaa"
+                    },
+                    {
+                        "Name": "Satyajayant Misra",
+                        "Link": "https://www.ronpub.com/publications/author/Satyajayant+Misra"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n08_Tourani.pdf"
+            },
+            {
+                "Title": "Integrating a Smart City Testbed into a Large-Scale Heterogeneous Federation of Future Internet Experimentation Facilities: the SmartSantander Approach",
+                "Authors": [
+                    {
+                        "Name": "Pablo Sotres",
+                        "Link": "https://www.ronpub.com/publications/author/Pablo+Sotres"
+                    },
+                    {
+                        "Name": "Jorge Lanza",
+                        "Link": "https://www.ronpub.com/publications/author/Jorge+Lanza"
+                    },
+                    {
+                        "Name": "Juan Ram\u00f3n Santana",
+                        "Link": "https://www.ronpub.com/publications/author/Juan+Ram%F3n+Santana"
+                    },
+                    {
+                        "Name": "Luis S\u00e1nchez",
+                        "Link": "https://www.ronpub.com/publications/author/Luis+S%E1nchez"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n10_Sotres.pdf"
+            },
+            {
+                "Title": "Modelling the Integrated QoS for Wireless Sensor Networks with Heterogeneous Data Traffic",
+                "Authors": [
+                    {
+                        "Name": "Syarifah Ezdiani",
+                        "Link": "https://www.ronpub.com/publications/author/Syarifah+Ezdiani"
+                    },
+                    {
+                        "Name": "Adnan Al-Anbuky",
+                        "Link": "https://www.ronpub.com/publications/author/Adnan+Al-Anbuky"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2015v1i1n02_Syarifah.pdf"
+            },
+            {
+                "Title": "Code Generation for Big Data Processing in the Web using WebAssembly",
+                "Authors": [
+                    {
+                        "Name": "Sven Groppe",
+                        "Link": "https://www.ronpub.com/publications/author/Sven+Groppe"
+                    },
+                    {
+                        "Name": "Niklas Reimer",
+                        "Link": "https://www.ronpub.com/publications/author/Niklas+Reimer"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJCC_2019v6i1n01_Groppe.pdf"
+            },
+            {
+                "Title": "Adding Semantics to Enrich Public Transport and Accessibility Data from the Web",
+                "Authors": [
+                    {
+                        "Name": "Paloma C\u00e1ceres",
+                        "Link": "https://www.ronpub.com/publications/author/Paloma+C%E1ceres"
+                    },
+                    {
+                        "Name": "Almudena Sierra-Alonso",
+                        "Link": "https://www.ronpub.com/publications/author/Almudena+Sierra-Alonso"
+                    },
+                    {
+                        "Name": "Bel\u00e9n Vela",
+                        "Link": "https://www.ronpub.com/publications/author/Bel%E9n+Vela"
+                    },
+                    {
+                        "Name": "Jos\u00e9 Mar\u00eda Cavero",
+                        "Link": "https://www.ronpub.com/publications/author/Jos%E9+Mar%EDa+Cavero"
+                    },
+                    {
+                        "Name": "Miguel \u00c1ngel Garrido",
+                        "Link": "https://www.ronpub.com/publications/author/Miguel+%C1ngel+Garrido"
+                    },
+                    {
+                        "Name": "Carlos E. Cuesta",
+                        "Link": "https://www.ronpub.com/publications/author/Carlos+E.+Cuesta"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJWT_2020v7i1n01_Caceres.pdf"
+            },
+            {
+                "Title": "Data Lifetime Estimation in a Multicast-Based CoAP Proxy",
+                "Authors": [
+                    {
+                        "Name": "Jelena Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Jelena+Misic"
+                    },
+                    {
+                        "Name": "Vojislav B. Misic",
+                        "Link": "https://www.ronpub.com/publications/author/Vojislav+B.+Misic"
+                    },
+                    {
+                        "Name": "Xiaolin Chang",
+                        "Link": "https://www.ronpub.com/publications/author/Xiaolin+Chang"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n12_Misic.pdf"
+            },
+            {
+                "Title": "Leveraging Application Development for the Internet of Mobile Things",
+                "Authors": [
+                    {
+                        "Name": "Felipe Carvalho",
+                        "Link": "https://www.ronpub.com/publications/author/Felipe+Carvalho"
+                    },
+                    {
+                        "Name": "Markus Endler",
+                        "Link": "https://www.ronpub.com/publications/author/Markus+Endler"
+                    },
+                    {
+                        "Name": "Francisco Silva e Silva",
+                        "Link": "https://www.ronpub.com/publications/author/Francisco+Silva+e+Silva"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJIOT_2019v5i1n09_Carvalho.pdf"
+            },
+            {
+                "Title": "NextGen Multi-Model Databases in Semantic Big Data Architectures",
+                "Authors": [
+                    {
+                        "Name": "Irena Holubova",
+                        "Link": "https://www.ronpub.com/publications/author/Irena+Holubova"
+                    },
+                    {
+                        "Name": "Stefanie Scherzinger",
+                        "Link": "https://www.ronpub.com/publications/author/Stefanie+Scherzinger"
+                    }
+                ],
+                "Link to PDF": "https://www.ronpub.com/./OJSW_2020v7i1n01_Holubova.pdf"
+            }
+        ]
+    }
+]
