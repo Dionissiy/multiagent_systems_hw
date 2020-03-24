@@ -63,18 +63,19 @@ def save_file(data):
 
 
 def get_journal_data(link, agent):
-    source_code = get_source_code(link, agent)
-    time.sleep(2)
+    agent.get(link)
+    button = agent.find_element_by_xpath('//*[@id="journals"]/div/div[2]/div[1]/a[5]')
+    time.sleep(1)
+    button.click()
+    time.sleep(1)
+
+    source_code = fromstring(agent.page_source)
 
     journal_data = {}
     journal_data['Journal description'] = get_journal_description(source_code)
 
-    button = agent.find_element_by_link_text('Articles')
-    button.click()
-    time.sleep(2)
-
-    articles = get_list_of_articles(source_code)
-
+    container = source_code.xpath('//*[@id="VolumesIssuesRight"]')[0]
+    articles = get_list_of_articles(container)
     journal_data['Articles'] = [get_data_from_article(x) for x in articles]
 
     return journal_data
