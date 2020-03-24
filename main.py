@@ -53,7 +53,10 @@ def get_data_from_article(article):  # returns dictionary with article data
     #data['License'] = article.xpath('p[1]/strong/span/text()')[0]
     data['Title'] = article.xpath('p[2]/a/text()')[0]
     data['Authors'] = get_list_of_authors(article.xpath('p[3]')[0])
-    data['Link to PDF'] = article.xpath('p[5]/a[1]/@href')[0]
+
+    link_container = article.find_class('download')[0]
+    data['Link to PDF'] = link_container.xpath('@href')[0]
+
     return data
 
 
