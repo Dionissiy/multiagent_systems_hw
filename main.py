@@ -31,8 +31,7 @@ def get_journal_description(source):  # returns dictionary
 
 
 def get_list_of_articles(source):  # returns list of HtmlElements
-    container = source
-    articles = container.find_class('article')
+    articles = source.find_class('article')
     return articles
 
 
