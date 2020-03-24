@@ -19,13 +19,19 @@ def get_journal_description(source):  # returns dictionary
     title = journal_description.find_class('title')[0].xpath('text()')[0]
     result['Title'] = title
 
-    table = journal_description.xpath('table[2]')[0]
-    rows = table.xpath('tbody/tr')
-
-    for row in rows:
-        header = row.xpath('td[1]/text()')[0]
-        value = row.xpath('td[2]/text()')[0]
-        result[header] = value
+    table = journal_description.xpath('table[2]/tbody')[0]
+    result['Publisher'] = table.xpath('tr[1]/td[2]/text()')[0]
+    result['Contact'] = {
+        'Name': table.xpath('tr[2]/td[2]/text()')[0],
+        'Email': table.xpath('tr[2]/td[2]/a/@href')[0]
+    }
+    result['ISSN'] = table.xpath('tr[3]/td[1]/text()')[0]
+    call_for_papers_list = table.xpath('tr[4]/td[2]/a/@href')
+    result['Call for papers'] = {
+        'txt(UTF-8)': call_for_papers_list[0],
+        'txt(ASCII)': call_for_papers_list[1],
+        'pdf': call_for_papers_list[2]
+    }
 
     return result
 
