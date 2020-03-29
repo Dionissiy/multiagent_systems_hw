@@ -4,7 +4,10 @@ import pprint as pp
 import lxml
 import time
 import json
+from tika import parser
+import tika
 
+tika.TikaClientOnly = True
 
 def get_source_code(link, agent):  # returns lxml.html.HtmlElement
     agent.get(link)
@@ -63,6 +66,10 @@ def get_data_from_article(article):  # returns dictionary with article data
     link_container = article.find_class('download')[0]
     data['Link to PDF'] = link_container.xpath('@href')[0]
 
+    parsed_PDF = parser.from_file(data['Link to PDF'])
+    data['Year'] = parsed_PDF['metadata']['Creation-Date'][:4]
+    data['Article text'] = parsed_PDF['content'].split("\n")
+
     return data
 
 
@@ -76,7 +83,7 @@ def get_journal_data(link, agent):
     button = agent.find_element_by_xpath('//*[@id="journals"]/div/div[2]/div[1]/a[5]')
     time.sleep(1)
     button.click()
-    time.sleep(1)
+    time.sleep(2)
 
     source_code = fromstring(agent.page_source)
 
